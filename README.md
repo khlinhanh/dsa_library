@@ -38,18 +38,13 @@
 3. Duyệt đến thư mục đã giải nén và chọn **`LibraryManagement.sln`**.
 4. Nhấn **Open** để mở dự án trong Visual Studio.
 
-### **Bước 3: Cài Đặt Các Phụ Thuộc (NuGet Packages)**
-
-- Nếu dự án yêu cầu, Visual Studio sẽ tự động khôi phục các **NuGet Packages**.
-- Nếu không, bạn có thể nhấn vào **Tools** → **NuGet Package Manager** → **Restore NuGet Packages** để cài đặt tất cả các gói phụ thuộc.
-
-### **Bước 4: Cấu Hình Cơ Sở Dữ Liệu**
+### **Bước 3: Cấu Hình Cơ Sở Dữ Liệu**
 
 1. Mở file **SQLQuery_addbooks.sql**.
 2. Mở **SQL Server Management Studio (SSMS)** hoặc công cụ SQL tương tự và kết nối đến cơ sở dữ liệu.
 3. Chạy các câu lệnh trong **SQLQuery_addbooks.sql** để tạo bảng và thêm dữ liệu vào cơ sở dữ liệu SQL Server.
 
-### **Bước 5: Chạy Dự Án**
+### **Bước 4: Chạy Dự Án**
 
 1. Trong **Visual Studio**, nhấn **Start** (hoặc nhấn **F5**) để chạy ứng dụng.
 2. **Visual Studio** sẽ biên dịch và mở ứng dụng **Windows Forms**.
