@@ -1,4 +1,13 @@
 # 📚 DSA Library - Quản lý Thư viện 
+## 📘 Mô tả Dự Án
+
+**DSA Library** là ứng dụng quản lý thư viện sách được phát triển bằng C#, sử dụng cấu trúc **Cây Nhị Phân Tìm Kiếm (Binary Search Tree - BST)** làm nền tảng lưu trữ và xử lý dữ liệu.
+
+Dự án được xây dựng trong khuôn khổ môn học **Cấu trúc Dữ liệu và Giải thuật**, giúp sinh viên:
+
+- Hiểu cách vận dụng cây nhị phân để lưu trữ dữ liệu có thứ tự.
+- Thực hành các thao tác chèn, tìm kiếm, xóa, duyệt cây, lọc dữ liệu.
+- Kết hợp thuật toán với ứng dụng thực tế (giao diện Windows Forms )
 ## 🏗 Cấu trúc thư mục
 
 - **LibraryManagement/**: Thư mục chứa toàn bộ mã nguồn chương trình C#
